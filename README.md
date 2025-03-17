@@ -17,10 +17,8 @@
          <p class="lead">Eu sou Naiara</p>
          <h1>Eu estou fazendo um projeto de robótica</h1>
          <p>Sou estudante do ensino médio e estou aprendendo a desenvolver projetos em JavaScript!</p>
-         <p>Minhas habilidades</p>
+         <p>Minhas habilidades são: </p>
          <div>
-             <p class="badge bg-secondary">HTML</p>
-             <p class="badge bg-secondary">CSS</p>
              <p class="badge bg-secondary">JavaScript</p>
              <p class="badge bg-secondary">Scratch</p>
          </div>

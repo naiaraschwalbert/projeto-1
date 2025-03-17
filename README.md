@@ -14,7 +14,7 @@
      <header class="container text-center">
          <img src="img/avatar-perfil.png" alt="avatar da Naiara" class="rounded-circle" width="150" height="150"
              srcset="">
-         <p class="lead">Eu sou Naiara</p>
+         <p class="lead">Eu sou a Naiara</p>
          <h1>Eu estou fazendo um projeto de robótica</h1>
          <p>Sou estudante do ensino médio e estou aprendendo a desenvolver projetos em JavaScript!</p>
          <p>Minhas habilidades são: </p>

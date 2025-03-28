@@ -31,11 +31,10 @@
                  <div class="card">
                      <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                      <div class="card-body">
-                         <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
-                         <p class="card-text">Este projeto é uma página web que apresenta uma lista dos meus livros
-                             favoritos, incluindo informações sobre os autores, datas de publicação e links para compra
-                             na Amazon. A página é estilizada com CSS para uma visualização agradável e usa fontes
-                             externas do Google Fonts.
+                         <h5 class="card-title">Pingpong:um jogo esportivo</h5>
+                         <p class="card-text">Este projeto é uma página web que apresenta um jogo de ping pong para 
+                             dois jogadores, duas raquetes e uma bolinha. Para jogar é simples, basta usar o W e o S.
+                             A página é estiliada com o scratch, que utiliza linguagem logo e squeak.                             
                          </p>
                          <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">Veja
                              o projeto</button>
